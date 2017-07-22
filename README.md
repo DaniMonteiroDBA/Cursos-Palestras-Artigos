@@ -16,7 +16,9 @@ Qualquer dúvida, consideração, crítica construtiva e afins... Entra em conta
     
     - Medium.com/Tempestade-de-Dados
     
-    - facebook.com/DaniMonteiroDBA
-    
-    - TempestadeDeDados.com.br (em construção!)
+    - TempestadedeDados.com.br (em construção)
+   
+   
+    
+    
 
